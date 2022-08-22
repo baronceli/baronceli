@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @baronceli
-- 👀 I’m interested in ...  play women
+- 👀 I’m interested in ...  To play with women
 - 🌱 I’m currently learning ... tech
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... china
+- 📫 How to reach me ...  To my arms
+
+
 
 <!---
 baronceli/baronceli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
